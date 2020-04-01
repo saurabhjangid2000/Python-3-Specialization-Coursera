@@ -8,13 +8,13 @@ Requirements:-
 
 1:- You can use any of th IDE's like:-
 
-A.Pycharm
+A.  Pycharm
 
-B.Juypter Notebook
+B.  Juypter Notebook
 
-C.Basic IDLE(Python)
+C.  Basic IDLE(Python)
 
-D.Spider
+D.  Spider
 
 any of 'em
 
