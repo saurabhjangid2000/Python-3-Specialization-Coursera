@@ -7,10 +7,15 @@ This course id specially designed for those who either new to programming or fea
 Requirements:-
 
 1:- You can use any of th IDE's like:-
+
 A.Pycharm
+
 B.Juypter Notebook
+
 C.Basic IDLE(Python)
+
 D.Spider
+
 any of 'em
 
 2:- Python 3.8.0 or newer version must be installed in your system
